@@ -14,6 +14,7 @@ The performance can be improved by stabilizing the subject and the camera as wel
 ## Instructions:
 - Clone the repo or download the zip.
 - Extract the zip (if not cloned).
+- Make the new folders, namely `result`, `temp`, `video`
 - Place your **1080p - 60fps - Landscape mode** video into the `video` folder
 - Run `Leatherface.exe` to execute the script
 - The result image should become available in the `result` folder.
